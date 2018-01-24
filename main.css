@@ -1,0 +1,23 @@
+h2{
+	float:right;
+}
+#box1{
+	padding:20px;
+	margin:0 auto;
+	border:solid 1px blue;
+	width:400px;
+}
+#box2{
+	padding:10px;
+	margin:50px 20px;
+	border:dotted 180px red;
+	
+	
+}
+#box3{
+	padding:25px;
+	margin:5px;
+	border:dashed 5px blue;
+	width:300px;
+	
+}
